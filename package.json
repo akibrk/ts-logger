@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/akibrk/ts-validator.git"
+    "url": "git://github.com/akibrk/ts-logger.git"
   },
   "bugs": {
-    "url": "https://github.com/akibrk/ts-validator/issues"
+    "url": "https://github.com/akibrk/ts-logger/issues"
   },
-  "homepage": "https://github.com/akibrk/ts-validator#readme",
+  "homepage": "https://github.com/akibrk/ts-logger#readme",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^26.0.23",
